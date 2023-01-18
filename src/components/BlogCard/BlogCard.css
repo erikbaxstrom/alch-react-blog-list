@@ -12,6 +12,10 @@
   grid-area: 'detail';
 }
 
+.author {
+  font-weight: bold;
+}
+
 .title {
   font-family: 'Playfair Display', serif;
   font-size: 2rem;
